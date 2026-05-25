@@ -12,7 +12,7 @@ To write a program to implement the back end of the compiler.
 6. Stop the program.
 # PROGRAM
 .c file
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
